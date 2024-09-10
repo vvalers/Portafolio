@@ -1,0 +1,23 @@
+[33mcommit 94ccee8350364d60867efc71099ebce593534860[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Labope <Labope@alemana.cl>
+Date:   Tue Sep 10 10:20:06 2024 -0300
+
+    se modifica estilos con css
+
+[33mcommit 6ddcb5451fff292e32f36b38ad2e4916f30d3325[m
+Author: Labope <Labope@alemana.cl>
+Date:   Tue Sep 10 09:25:11 2024 -0300
+
+    se agrega menu de navegacion
+
+[33mcommit 55238222560b339709ee458f9f5e7a00e4c2440f[m
+Author: Labope <Labope@alemana.cl>
+Date:   Tue Sep 10 09:10:20 2024 -0300
+
+    se agregan las rutas al proyecto
+
+[33mcommit 6fa583f7288b8b5123552f40c631248013de0c3e[m
+Author: Labope <Labope@alemana.cl>
+Date:   Tue Sep 10 08:57:13 2024 -0300
+
+    inicializacion del portafolio

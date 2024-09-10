@@ -14,7 +14,7 @@
  *= require_self
  */
  .navbar{
-    background-color: rgb(253, 228, 255);
+    background-color: rgb(240, 224, 236);
  }
  .navbar-brand{
     font-weight: 300;
@@ -22,6 +22,7 @@
  .titulos{
     color: rgb(206, 105, 167);
  }
+
  .home{
     margin-top: 20px;
 
