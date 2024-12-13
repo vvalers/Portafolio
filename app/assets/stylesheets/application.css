@@ -23,9 +23,8 @@
     color: rgb(206, 105, 167);
  }
 
- .home{
-    margin-top: 20px;
-
+ .img{
+   height: 180px;
  }
  .card-group{
     margin-top: 30px;
@@ -50,8 +49,9 @@
     border-radius: 150px;
 
  }
- .redes{
-    text-decoration: none;
-    color: rgb(189, 55, 171);
-    font-weight: bold;
+ .fa-brands.fa-linkedin,.fa-brands.fa-github,.fa-brands.fa-instagram,.fa-brands.fa-whatsapp,.fa-solid.fa-square-envelope{
+   font-size: 2em;  
+   color: rgb(189, 55, 171);
+   margin-top: 15px;
  }
+
